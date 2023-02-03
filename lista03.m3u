@@ -1,0 +1,243 @@
+
+ #EXTM3U
+ #EXTINF:-1 
+ https://stmv1.srvif.com/channel1/channel1/chunklist_w1320411076.m3u8
+ #EXTINF:-2
+ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1505141357.m3u8
+ #EXTINF:-3
+ https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1096268865.m3u8
+ #EXTINF:-4
+ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1638929133.m3u8
+ #EXTINF:-5
+ https://stmv1.srvif.com/channel1/channel1/chunklist_w1387005211.m3u8
+ #EXTINF:-6
+ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1709939263.m3u8
+ #EXTINF:-7
+ https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+ #EXTINF:-8
+ https://stream.ads.ottera.tv/cl/230203cfei33jt72uf9vf4sp40/1280x720_3071200_0_f.m3u8?i=475_2552
+ #EXTINF:-9
+ https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w207053546.m3u8
+ #EXTINF:-10
+ https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1712321522.m3u8
+ #EXTINF:-11
+ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w7625610.m3u8
+ #EXTINF:-12
+ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w296966635.m3u8
+ #EXTINF:-13
+ https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w32954798.m3u8
+ #EXTINF:-14
+ https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1040667184.m3u8
+ #EXTINF:-15
+ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2145731830.m3u8
+ #EXTINF:-16
+ https://stmv1.srvif.com/classique/classique/chunklist_w151155991.m3u8
+ #EXTINF:-17
+ https://stmv1.srvif.com/channel1/channel1/chunklist_w1699397138.m3u8
+ #EXTINF:-18
+ https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
+ #EXTINF:-19
+ https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w827630438.m3u8
+ #EXTINF:-20
+ https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w2095344819.m3u8
+ #EXTINF:-21
+ https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
+ #EXTINF:-22
+ https://stream.ads.ottera.tv/cl/230203cfei98ia8ro45q5j9fig/1280x720_3071200_0_f.m3u8?i=475_2153
+ #EXTINF:-23
+ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w19077498.m3u8
+ #EXTINF:-24
+ https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+ #EXTINF:-25
+ https://stream.ads.ottera.tv/cl/230203cfeias6jrdujuaafa0og/1280x720_3071200_0_f.m3u8?i=475_2553
+ #EXTINF:-26
+ https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1974811040.m3u8
+ #EXTINF:-27
+ https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1951294534_b30048000_sleng.m3u8
+ #EXTINF:-28
+ https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1539185154.m3u8
+ #EXTINF:-29
+ https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w472324487.m3u8
+ #EXTINF:-30
+ https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w1080554722.m3u8
+ #EXTINF:-31
+ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/1ecb8067-95d5-4b1e-83c0-3bdf9eaa2aa0/2.m3u8
+ #EXTINF:-32
+ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w870415411.m3u8
+ #EXTINF:-33
+ https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_720p_high.m3u8
+ #EXTINF:-34
+ https://stream.ads.ottera.tv/cl/230203cfeii5p6gfenmh60q33g/1280x720_3071200_0_f.m3u8?i=475_2649
+ #EXTINF:-35
+ https://stream.ads.ottera.tv/cl/230203cfeiiiopg57ltvhsnd6g/1280x720_2300000_0_f.m3u8?i=475_656
+ #EXTINF:-36
+ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+ #EXTINF:-37
+ https://stream.ads.ottera.tv/cl/230203cfeik12r4eb7v6t88gk0/1280x720_2300000_0_f.m3u8?i=475_1153
+ #EXTINF:-38
+ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w740546076.m3u8
+ #EXTINF:-39
+ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1670325439.m3u8
+ #EXTINF:-40
+ https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-3330-6d61-63-bb4b-5df88851d8b7d/media_0.m3u8
+ #EXTINF:-41
+ https://5a7d54e35f9d2.streamlock.net/trechorodoviario/trechorodoviario.stream/chunklist.m3u8
+ #EXTINF:-42
+ https://inst-gwr5r-srs-hd.camerite.services/s6/hls/2a928330-1573-11ec-bccd-d170ee3351b0/2a928330-1573-11ec-bccd-d170ee3351b0.m3u8?hls_ctx=3a3b4p05
+ #EXTINF:-43
+ https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w990312447.m3u8
+ #EXTINF:-44
+ https://deliverys6.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-3330-6d61-63-ab88-8df2f1cd0327d/media_0.m3u8
+ #EXTINF:-45
+ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+ #EXTINF:-46
+ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w1715235643.m3u8
+ #EXTINF:-47
+ https://stmv1.srvif.com/channel1/channel1/chunklist_w174556324.m3u8
+ #EXTINF:-48
+ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1497225592.m3u8
+ #EXTINF:-49
+ https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+ #EXTINF:-50
+ https://live.tcm10.com.br/tcm10hd/stream.m3u8
+ #EXTINF:-51
+ https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=333361308&wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjMgMzo1OToxIFBNJmhhc2hfdmFsdWU9NUNaSzc4ci9lYU5LU1VucnR3N3dNZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBjYjdmNDEyLThlMjYtNGE0Ny05NmJjLWJkNmRjZDgwMzQ0ZQ==
+ #EXTINF:-52
+ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1184772430.m3u8
+ #EXTINF:-53
+ https://svsjqsdbniqb.cdnexpress59.net:8443/hls/b5r01up6xuiica.m3u8?s=xqCXUIGS1kI3lMOlZ2adjw&e=1675461962
+ #EXTINF:-54
+ http://89.187.173.236/live/iptv51652761/34420/392.m3u8?token=QkZcWEpdQAgUWQAHAFUAClBUCl4CCglbV1ZTBlsAB1AOAQwBAQFQBA4aTUdDRUFWAg5sD1URCgtfAh1BTEoAFmYNUBsDF1AGAgxWUBIdEUcKDlZECwMcGhZZVUEDVxAIVUgWXEFBB0BYWQ06VFRFWgAGEVxfRlxUShJeDWZdAAlYClAbAxdTEBoaCBZAEwldFg9fShNRWUwUUUUGGwMLEVUIGBtaWhdcQkoYRwoTY2dBTxEDSUdVVhVZXg0bA0cJChEMGxUXC0FpSgQWRENWUg4GQUQLEQAaShJcAkFmBgtXClFaTVwNXEUaW0cBEx8RDgxdD0VcQmcWWVVBA1cQCFUZ
+ #EXTINF:-55
+ https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/megapix_a6f16ab4_cdadf9cba714ace14d35ba3ad228a7b58c9071d7/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6YzQwZjo0NzAwOmQ5YmU6YTlkMDozNThkOjQzYzciO2k6MTtzOjExMToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjc1NDQwNTAyO30%3D
+ #EXTINF:-56
+ http://tv1.cs10.tv/live/iptv51652761/34420/368.m3u8
+ #EXTINF:-57
+ https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/hbo2_05a53e36_895bdb46294d4b58c28a7b4ee6ce1dd16cb0a894/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6YzQwZjo0NzAwOmQ5YmU6YTlkMDozNThkOjQzYzciO2k6MTtzOjExMToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjc1NDQwNzM2O30%3D
+ #EXTINF:-58
+ https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/hboxtreme_9c676e00_7dde70ad2298f697b0414de4429c635fdb264995/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6YzQwZjo0NzAwOmQ5YmU6YTlkMDozNThkOjQzYzciO2k6MTtzOjExMToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjc1NDQwNzkxO30%3D
+ #EXTINF:-59
+ https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/axn_cb7a1d77_4ad13ebfa6e79eb71e5784605833004efd90ab95/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjAwMTo4MTg6YzQwZjo0NzAwOmQ5YmU6YTlkMDozNThkOjQzYzciO2k6MTtzOjExMToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjc1NDQwOTI3O30%3D
+ #EXTINF:-60
+ https://svsjqsdbniqb.cdnexpress59.net:8443/hls/ovqfhh3m5wv.m3u8?s=ARu3qCEZD_UNe79_luQadg&e=1675462619
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
